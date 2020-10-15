@@ -25,7 +25,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/saZtoof8yY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/z5KCiU9pVU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 My Twitter application took a lot of time and attention but it was so worth it! I found myself having so much fun creating it, and even though it was hard and there were a lot of mistakes, I felt the need to figure out the answers to my solutions. I am completely satisfied with it and I hope you like it!
 
